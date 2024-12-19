@@ -1,6 +1,4 @@
-
-import { ChatInterface } from './components/ChatInterface';
-
+import ChatInterface from './components/ChatInterface';
 
 function App() {
   return <ChatInterface />;
